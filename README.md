@@ -1,18 +1,42 @@
-# 💫 About Me:
- 👋 Dheeraj R<br><br>🎓 Information Science Engineering Student | 🤖 AI & Data<br>Passionate about building 💡 practical solutions and exploring 🤖 Artificial Intelligence, 🧠 Machine Learning, 📊 Data Analytics, and 💻 Software Development.<br><br>🛠️ Technical Skills<br>💻 Languages:Python · C · SQL<br>📊 Data & ML:NumPy · Pandas · Scikit-learn · Power BI<br>🌐 Development: HTML · CSS · JavaScript<br>🗄️ Database:MySQL<br>🔧 Tools:Git · GitHub · VS Code<br><br>🚀 Currently Exploring<br>AI · Machine Learning · Data Analytics · Cloud Technologies**<br><br>🎯 Approach<br>> Learn. Build. Evolve.<br><br>⭐Thanks for visiting my profile!<br>
+# 👋 Hi, I'm Dheeraj R
 
+### 🚀 Information Science Engineering Student | AI & Data Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_mr_dheeraj_r?stkn=MXd6NjZ2dDA0YTJzZw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ dheeraj-r-087894337) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@dheerajr8060?si=6i2owP6zedw8KsC1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dheerudheerajr@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username= dheerudheerajr-glitch&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user= dheerudheerajr-glitch&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username= dheerudheerajr-glitch&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I’m passionate about building practical solutions and exploring
+Artificial Intelligence, Machine Learning, Data Analytics and Software Development.
 
 ---
-[![](https://komarev.com/ghpvc/?username= dheerudheerajr-glitch&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dheerudheerajr-glitch&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerudheerajr-glitch&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dheerudheerajr-glitch&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🛠️ Technical Skills
+
+- 🐍 Python
+- 🗄️ SQL
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Analytics
+- 💻 Software Development
+
+---
+
+### 🌱 Currently Learning
+AI • Machine Learning • Data Analytics • Advanced Python
+
+### 💡 Goal
+> Build meaningful technology that solves real-world problems.
+
+---
+
+⭐ **Thanks for visiting my profile!**
