@@ -29,7 +29,7 @@ Artificial Intelligence, Machine Learning, Data Analytics and Software Developme
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,c." />
 </p>
 
 ### 🗄️ Database
