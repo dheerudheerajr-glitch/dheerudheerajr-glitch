@@ -60,9 +60,7 @@ Artificial Intelligence, Machine Learning, Data Analytics and Software Developme
 ## 🧠 Skills
 
 - 🐍 Python
-- ☕ Java
 - ⚡ C
-- 🟨 JavaScript
 - 🗄️ SQL / MySQL
 - 📊 Power BI
 - 📈 Data Analytics
